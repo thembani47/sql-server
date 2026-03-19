@@ -13,3 +13,6 @@ Get-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\stornvme\Paramet
  
  
 fsutil fsinfo sectorinfo C:
+
+
+pip install pandas numpy matplotlib seaborn scipy scikit-learn plotly sqlalchemy mysql-connector-python pymysql ipython-sql setuptools statsmodels openpyxl
